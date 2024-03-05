@@ -14,4 +14,5 @@ class Persona{
   Persona(this.cedula,this.correo,this.direccion,this.edad,this.fechaNacimiento,
   this.password,this.primerApellido,this.primerNombre,this.segundoApellido,this.segundoNombre,this.telefono);
 
+  
 }
