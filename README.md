@@ -1,3 +1,3 @@
 # proyecto_aula
 
-A new Flutter project.
+Proyecto de aula entregado a Unicolombo.
